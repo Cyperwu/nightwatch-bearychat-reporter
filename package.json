@@ -1,0 +1,35 @@
+{
+  "name": "nightwatch-bearychat-reporter",
+  "version": "1.0.0",
+  "description": "a bearychat reporter for nightwatchjs",
+  "main": "lib/beary-reporter.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cyperwu/nightwatch-bearychat-reporter.git"
+  },
+  "keywords": [
+    "nightwatch",
+    "nightwatchjs",
+    "bearychat",
+    "report",
+    "reporter"
+  ],
+  "author": "Cyper",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cyperwu/nightwatch-bearychat-reporter/issues"
+  },
+  "homepage": "https://github.com/Cyperwu/nightwatch-bearychat-reporter#readme",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2",
+    "mockery": "^2.1.0",
+    "sinon": "^2.3.6"
+  }
+}
